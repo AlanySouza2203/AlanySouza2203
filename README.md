@@ -69,7 +69,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=AlanySouza2203&style=flat-square&color=DC2626"/>
+
 
 </div>
 
