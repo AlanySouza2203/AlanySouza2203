@@ -62,17 +62,6 @@
 
 </div>
 
----
-
-# 📊 GitHub Stats
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AlanySouza2203&theme=transparent&hide_border=true"/>
-
-</div>
 
 ---
 
